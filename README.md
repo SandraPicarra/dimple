@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/PMSI-AlignAlytics/dimple)
+
 ### dimple ###
 
 Dimple is an object-oriented API allowing you to create flexible axis-based charts using [d3.js](http://d3js.org "d3.js").
